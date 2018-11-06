@@ -25,7 +25,7 @@ SECRET_KEY = 'b%$d+^9!2*v_5zt%2my0-+l-)$*k2#9rcv33adgor=nb$vf^(9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','mfive.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
 
 
 # Application definition
